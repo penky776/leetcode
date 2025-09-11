@@ -1,9 +1,10 @@
 
-Tracking my <a href="https://leetcode.com/problemset/">leetcode</a> solutions for later study/optimization. 
+Tracking my leetcode solutions for later study/optimization. 
 
 ## Table of Contents
 
 * Medium
+    - [1. Two Sum](python/1.py)
     - [17. Letter Combinations of a Phone Number](python/17.py)
     - [19. Remove Nth Node From End of List](python/19.py)
     - [74. Search a 2D Matrix](python/74.py)
