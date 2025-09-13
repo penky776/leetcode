@@ -6,6 +6,8 @@ Tracking my leetcode solutions for later study/optimization.
 * Easy
     - [1. Two Sum](python/1.py)
 * Medium
+    - [15. 3Sum](python/15.py)
+        - Working solution with binary search, but exceeded time limit
     - [17. Letter Combinations of a Phone Number](python/17.py)
     - [19. Remove Nth Node From End of List](python/19.py)
     - [74. Search a 2D Matrix](python/74.py)
