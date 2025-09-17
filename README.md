@@ -5,13 +5,14 @@ Tracking my leetcode solutions for later study/optimization.
 
 * Easy
     - [1. Two Sum](python/1.py)
+    - [121. Best Time to Buy and Sell Stock](python/121.py)
 * Medium
     - [15. 3Sum](python/15.py)
         - Working solution with binary search, but exceeded time limit
     - [17. Letter Combinations of a Phone Number](python/17.py)
     - [19. Remove Nth Node From End of List](python/19.py)
     - [74. Search a 2D Matrix](python/74.py)
-    - [74.2. Search a 2D Matrix (Attempt 2)](python/74.2.py)
+    - [74.1. Search a 2D Matrix (Attempt 2)](python/74.1.py)
     - [240. Search a 2D Matrix II](python/240.py)
     - [1170. Compare Strings by Frequency of the Smallest Character](python/1170.py) 
 * Hard
